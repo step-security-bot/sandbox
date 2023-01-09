@@ -10,7 +10,7 @@ cryptography==38.0.1
 ecdsa==0.18.0
 enhancements==0.4.0
 idna==3.4
-packaging==21.3
+packaging==23.0
 paramiko==2.11.0
 pycparser==2.21
 pygments==2.13.0
